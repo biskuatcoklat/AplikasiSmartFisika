@@ -1,0 +1,3 @@
+﻿  main.cpp
+E:\Semester 1\Algoritma dan pemigraman\Tugas\Aplikasi Smart Fisika\Aplikasi Smart Fisika\main.cpp(91,41): warning C4805: '==': unsafe mix of type 'boolean' and type 'bool' in operation
+  Aplikasi Smart Fisika.vcxproj -> E:\Semester 1\Algoritma dan pemigraman\Tugas\Aplikasi Smart Fisika\Debug\Aplikasi Smart Fisika.exe
